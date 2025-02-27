@@ -1,3 +1,40 @@
 # DataAnalysis
 1. This is my first data analysis project.
-2. I am using SQL to analyse this dataset.
+2. I am using SQL to analyse this titanic dataset.
+3. Our objective is to see according to the data what groups of passengers had higher survival rate.
+
+## Titanic Dataset Columns
+Each row represents a passenger of the Titanic.
+
+Below is the description of all the columns of the titanic dataset.
+
+| PassengerId   |Survived            |Pclass                |Name             |Sex           |Age|SibSp|Parch|Ticket|Fare|Cabin|Embarked|
+| ------------- | -------------      | -------------        | -------------   | -------------| --|-----|---- |---|---|---|---|
+| PassengerId   | (0 = No, 1 = Yes)  | (1st,2nd,3rd Class)  | passenger name  | Male/Female  |age|Nunmber of siblings or spouses|Number of parents or children on board|Ticket number|Passenger fare|cabin|Port of embarkment (C:Cherbourg,Q:Queenstown,S:Southampton)|
+
+
+
+PassengerId-
+
+Survived-(0 = No, 1 = Yes)
+
+Pclass-(1st,2nd,3rd Class)
+
+Name-Passenger Name
+
+Sex-Male/Female
+
+Age-
+
+SibSp-Number of siblings or spouses on board
+
+Parch-Number of parents or children on board
+
+Ticket-Ticket number
+
+Fare-Passenger fare
+
+Cabin-Cabin number
+
+Embarked-Port of embarkation (C:Cherbourg,Q:Queenstown,S:Southampton)
+
