@@ -1,7 +1,7 @@
 # DataAnalysis
 1. This is my first data analysis project.
 2. I am using SQL to analyse this titanic dataset.
-3. Our objective is to see according to the data what groups of passengers had higher survival rate.
+3. Our objective is to explore the dataset and see according to find out which groups of passengers had higher survival rate.
 
 ## Titanic Dataset Columns
 Each row represents a passenger of the Titanic.
