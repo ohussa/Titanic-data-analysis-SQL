@@ -13,11 +13,3 @@ Below is the description of all the columns of the titanic dataset.
 | PassengerId   | (0 = No, 1 = Yes)  | (1st,2nd,3rd Class)  | passenger name  | Male/Female  |age|Nunmber of siblings or spouses|Number of parents or children on board|Ticket number|Passenger fare|cabin|Port of embarkment (C:Cherbourg,Q:Queenstown,S:Southampton)|
 
 
-Ticket-Ticket number
-
-Fare-Passenger fare
-
-Cabin-Cabin number
-
-Embarked-Port of embarkation (C:Cherbourg,Q:Queenstown,S:Southampton)
-
