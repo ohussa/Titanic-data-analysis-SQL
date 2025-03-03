@@ -23,5 +23,10 @@ Total survived (1=yes, 0=no)
 |---|---|
 |0|809|
 |1|500|
-Meaning 500 out of 1309 survived and 809 out of 1309 did not survive.
+
+Meaning 
+
+500 out of 1309 survived
+
+and 809 out of 1309 did not survive.
 
