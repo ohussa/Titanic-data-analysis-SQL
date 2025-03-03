@@ -1,0 +1,1 @@
+SELECT sex,COUNT(sex) FROM complete_passengers GROUP BY sex;
