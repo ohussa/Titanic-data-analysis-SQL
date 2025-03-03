@@ -3,6 +3,8 @@
 2. I am using SQL to analyse this titanic dataset.
 3. Our objective is to explore the dataset and see according to find out which groups of passengers had higher survival rate.
 
+Dataset souce https://www.kaggle.com/datasets/vinicius150987/titanic3/data?select=titanic3.xls
+
 ## Titanic Dataset Columns
 Each row represents a passenger of the Titanic.
 
