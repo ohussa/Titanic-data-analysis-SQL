@@ -1,0 +1,1 @@
+SELECT survived,COUNT(survived) FROM complete_passengers GROUP BY survived;
