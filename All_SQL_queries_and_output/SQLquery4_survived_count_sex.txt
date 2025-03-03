@@ -1,0 +1,1 @@
+SELECT sex,survived,COUNT(survived) AS num_survived FROM complete_passengers GROUP BY sex,survived;
