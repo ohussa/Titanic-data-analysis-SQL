@@ -75,7 +75,7 @@ Let us explore survivors more.
 |71-80	|male	|1 |
 |	|male	|26|
 
-Highest numbers of survivors are in the age group of 21-30 for both males and females.
+#### Highest numbers of survivors for both sexes are in the age group of 21-30.
 
 Females:Age group 21-30 has 91 survivors
 
