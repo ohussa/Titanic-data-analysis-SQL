@@ -55,5 +55,30 @@ OR in other words
 ##### Most of the survivors were females. 
 
 Let us explore survivors more.
+|age_bin|sex|count_survived|
+|---|---|---|
+|0-10	|female	|25|
+|11-20	|female	|50|
+|21-30	|female	|91|
+|31-40	|female	|61|
+|41-50	|female	|36|
+|51-60	|female	|23|
+|61-70	|female	|5 |
+|71-80	|female	|1 |
+|0-10	|male	|25|
+|11-20	|male	|14|
+|21-30	|male	|43|
+|31-40	|male	|28|
+|41-50	|male	|16|
+|51-60	|male	|7 |
+|61-70	|male	|1 |
+|71-80	|male	|1 |
+|	|male	|26|
+
+Highest numbers of survivors are in the age group of 21-30 for both males and females.
+
+Females:Age group 21-30 has 91 survivors
+
+Males:Age group 21-30 has 43 survivors
 
 
