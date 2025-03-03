@@ -1,0 +1,1 @@
+WITH num_passengers AS(SELECT DISTINCT name, age FROM complete_passengers) SELECT COUNT(*) FROM num_passengers;
