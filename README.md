@@ -49,8 +49,8 @@ We have 466 number of female passengers in out dataset, and 843 number of male p
 OR in other words
 |sex |survived|count|pct|
 |---|---|---|---|
-|female|yes|339/466|72.7%|
-|male|yes|161/843|19.1%|
+|female|yes|339/466|72.7% of all female passengers|
+|male|yes|161/843|19.1% of all male passengers|
 
 ##### Most of the survivors were females. 
 
