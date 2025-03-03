@@ -81,4 +81,6 @@ Females:Age group 21-30 has 91 survivors
 
 Males:Age group 21-30 has 43 survivors
 
+#### Now let us see if we can see any relation between pclass and cabin with survival of passengers.
+
 
