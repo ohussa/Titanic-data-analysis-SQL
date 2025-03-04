@@ -1,7 +1,7 @@
-# DataAnalysis
+# Titanic passengers dataAnalysis project
 1. This is my first data analysis project.
 2. I am using SQL to analyse this titanic dataset.
-3. Our objective is to explore the dataset and see according to find out which groups of passengers had higher survival rate.
+3. Our objective is to explore the dataset and to find out which groups of passengers had higher survival rates.
 
 Dataset souce:
 https://www.kaggle.com/datasets/vinicius150987/titanic3/data?select=titanic3.xls
@@ -84,6 +84,27 @@ Females:Age group 21-30 has 91 survivors
 
 Males:Age group 21-30 has 43 survivors
 
-#### Now let us see if we can see any relation between pclass and cabin with survival of passengers.
+#### Now let us see if we can see any relation between pclass,sex and age with survival of passengers.
+
+I am going to ignore passengers who's ages are not known.
+##### 
+Whether a passenger survived or not seems to be related to
+1. **Sex:** In every class higher percentage of female passengers survived. So sex seems to be related to survival.
+2. **pclass:** The percentage of survivors out of total passengers, is high for upper classes. 
+![delete](https://github.com/user-attachments/assets/55c818bb-869f-4525-a962-7a61332de377)
+#### Is it possible that particular class or sex of passengers have higher proportion of a particular age group, which is skewing the results?
+No, all classes, and, all genders have more passengers in the age bin group of 30. The age distribution is relativly same across all classes and sexes.
+
+![allpass_byage_sex_class](https://github.com/user-attachments/assets/e0fd12c0-c094-4bc8-8b4f-adc0f7d977ac)
+
+## Conclusion
+Whether a passenger survived or not seemed to be strongly related to the passenger's
+1. **Sex:**
+2. **PClass**
+
+**It seems that perhaps Females and upper class passengers were given preference during the evacuation procedure**
+
+
+
 
 
