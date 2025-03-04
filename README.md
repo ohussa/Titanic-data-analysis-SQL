@@ -79,10 +79,16 @@ Let us explore survivors more.
 |	|male	|26|
 
 #### Highest numbers of survivors for both sexes are in the age group of 21-30.
-
 Females:Age group 21-30 has 91 survivors
 
 Males:Age group 21-30 has 43 survivors
+#### Is it safe to conclude that survival is related to age group?
+Let us instead find $\frac{How many passengers from X survived}{number of passengers in ageGroup X}$ 
+
+Since it is possible that most survivors were 21-30 because, most passengers were of that age.
+So this fraction should give us a good measure.
+
+
 ## 3-Visualisation:
 #### In this section we are using the query6_approximated_age_and_approx_cabin_output.csv file to visualise, since I simplified and approximated the ages and cabin numbers to ease visualization. 
 
