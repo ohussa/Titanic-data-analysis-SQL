@@ -6,7 +6,7 @@
 Dataset souce:
 https://www.kaggle.com/datasets/vinicius150987/titanic3/data?select=titanic3.xls
 
-## Titanic Dataset Columns
+## 1-Titanic Dataset Columns
 Each row represents a passenger of the Titanic.
 
 Below is the description of all the columns of the titanic dataset.
@@ -15,7 +15,7 @@ Below is the description of all the columns of the titanic dataset.
 | ------------- | -------------      | -------------        | -------------   | -------------| --|-----|---- |---|---|---|---|---|---|---|
 | This column was not present in the larger dataset,so I made each row number the passenger ID for the larger dataset. This unique ID represents a passenger.   | (0 = No, 1 = Yes)  | (1st,2nd,3rd Class)  | passenger name  | Male/Female  |age|Nunmber of siblings or spouses|Number of parents or children on board|Ticket number|Passenger fare|cabin|Port of embarkment (C:Cherbourg,Q:Queenstown,S:Southampton)|Life boat number|Body number (if did not survive)|Home/destination|
 
-## Exploring the data and summary statistics
+## 2-Exploring the data and summary statistics
 #### Total number of passengers:
 | count|
 |----- |
@@ -83,6 +83,8 @@ Let us explore survivors more.
 Females:Age group 21-30 has 91 survivors
 
 Males:Age group 21-30 has 43 survivors
+## 3-Visualisation:
+#### In this section we are using the query6_approximated_age_and_approx_cabin_output.csv file to visualise, since I simplified and approximated the ages and cabin numbers to ease visualization. 
 
 ### Now let us see if we can see any relation between pclass,sex and age with survival of passengers.
 
@@ -97,7 +99,7 @@ No, all classes, and, all genders have more passengers in the age bin group of 3
 
 ![allpass_byage_sex_class](https://github.com/user-attachments/assets/e0fd12c0-c094-4bc8-8b4f-adc0f7d977ac)
 
-## Conclusion
+## 4-Conclusion
 Whether a passenger survived or not seemed to be strongly related to the passenger's
 1. **Sex:**
 2. **PClass**
