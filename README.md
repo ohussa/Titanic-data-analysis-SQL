@@ -107,14 +107,21 @@ Whether a passenger survived or not seems to be related to
 2. **pclass:** If we look at each of the classes, in the upper classes, the percentage of males who survived and the percentage of females who survived, both are higher, compared to that of lower classes.
 
 <figure>
-<img src="https://private-user-images.githubusercontent.com/200813651/419044101-55c818bb-869f-4525-a962-7a61332de377.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDExNzcyOTMsIm5iZiI6MTc0MTE3Njk5MywicGF0aCI6Ii8yMDA4MTM2NTEvNDE5MDQ0MTAxLTU1YzgxOGJiLTg2OWYtNDUyNS1hOTYyLTdhNjEzMzJkZTM3Ny5KUEc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwNVQxMjE2MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNWUwNDJkMGY4NTllNzdlMjM2MDdiMTU3ZTVmNzE5Mjc4MWMwZmZlOGZhNzY3ODhmZjJhYzMzOWI2YzhhMjcxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.nQCzZPGQJswcxJ33GYkczg3uQ5x-9KckDgLvaVgpLR4" alt="delete" width="550" height="350" <figcaption><i>xaxis:sex,pclass<br>yaxis:Number of Passengers</i></figcaption>
+<img src="https://private-user-images.githubusercontent.com/200813651/419476983-da3bb7ee-708a-4fa9-a834-3fa21ff1a122.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDExODIzODAsIm5iZiI6MTc0MTE4MjA4MCwicGF0aCI6Ii8yMDA4MTM2NTEvNDE5NDc2OTgzLWRhM2JiN2VlLTcwOGEtNGZhOS1hODM0LTNmYTIxZmYxYTEyMi5KUEc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwNVQxMzQxMjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZDg5NzM1MjI1OGFlYzViY2I5MzUzNWQyZDNjNWMwZmU4ZTg1YTk4MmExOGZkZjFkODczNjljMzI0YTZjMTlkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.t-c3WOUhFtIKZV-yaus-k2fawsFJ5lN9kiCVIMu5yAE" alt="delete" width="550" height="350" <figcaption><i>xaxis:sex,pclass<br>yaxis:Number of Passengers</i></figcaption>
 </figure>
+
+
+
 
 
 ### Is it possible that particular class or sex of passengers have higher proportion of a particular age group, which is skewing the results?
 No, all classes, and, all genders have more passengers in the age bin group of 30. The age distribution is relativly same across all classes and sexes.
 
-<figure><img src="https://private-user-images.githubusercontent.com/200813651/419059060-e0fd12c0-c094-4bc8-8b4f-adc0f7d977ac.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDExNzgwMjQsIm5iZiI6MTc0MTE3NzcyNCwicGF0aCI6Ii8yMDA4MTM2NTEvNDE5MDU5MDYwLWUwZmQxMmMwLWMwOTQtNGJjOC04YjRmLWFkYzBmN2Q5NzdhYy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwNVQxMjI4NDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZWMwZWZjZWNiOWFmODY5NzRkZTRmYjkyMDAwYmIwMGQwOTdiMzQ0MzE2MTY5OWI2Mjk0MDJlNDM0ZTMyZWNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.IqBPnU0iN6s2zQCFZyVBr_enutlnxhPcgzQ1Y_ukrsg" alt="allpass_byage_sex_class" width="550" height="350" <figcaption><i>xaxis:sex,pclass<br>yaxis:Group of Passengers as percentage of total number of passengers<br>Colors:ageGroup <br>0-10<br>.<br>.<br>.<br>71-80</i></figcaption></figure>
+<figure><img src="https://private-user-images.githubusercontent.com/200813651/419477736-de995830-1613-4d95-81be-4a4cab4a52d1.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDExODI1MTUsIm5iZiI6MTc0MTE4MjIxNSwicGF0aCI6Ii8yMDA4MTM2NTEvNDE5NDc3NzM2LWRlOTk1ODMwLTE2MTMtNGQ5NS04MWJlLTRhNGNhYjRhNTJkMS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwNVQxMzQzMzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZDNjZWEyNGMzNTg0OTFmYTZkNTc4MTE1YmYwZTI3YWEyNzQ2OWMxMmIzYWRlMzJjMTVmY2JlZDY1ZjM3ZWM2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.CQPtj05BWU9D0k4q1KnXdbP_57SXnL-fc4QHi8DBtoA" alt="allpass_byage_sex_class" width="550" height="350" <figcaption><i>xaxis:sex,pclass<br>yaxis:Group of Passengers as percentage of total number of passengers<br>Colors:ageGroup <br>0-10<br>.<br>.<br>.<br>71-80</i></figcaption></figure>
+
+
+
+
 
 ## 4-Conclusion
 Whether a passenger survived or not seemed to be strongly related to the passenger's
