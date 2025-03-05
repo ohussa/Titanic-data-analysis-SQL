@@ -1,5 +1,0 @@
-These instructions allow me to generate output from SQL query in CSV formats
-1-\pset format csv
-2-\o 'D:/titanic/DataAnalysis/output.csv'
-3-query
-4-\o

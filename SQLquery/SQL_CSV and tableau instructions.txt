@@ -1,0 +1,13 @@
+These instructions allow me to generate output from SQL query in CSV format
+1-\pset format csv
+2-\o 'D:/titanic/DataAnalysis/output.csv'(path where I want these output files)
+3-my SQLquery
+4-\o
+
+Tableau instructions
+1-Columns->Categories like xaxis
+2-Rows->Quantities, like yaxis
+3-Colors->to differentiate categories.
+4-Filter->to toggle values in a category(eg:sex category see all males or all females) and see changes. (need to turn on show filter)
+5-file name pill in measured values section, means number of rows, can be used to count. (eg:all passengers=all rows)
+6-Clicking a portion of the graph(like a bar from bar graph) results in the value getting displayed at bottom of page. Detail from Marks section and other options in the mark section can also be used.
