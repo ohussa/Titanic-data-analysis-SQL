@@ -11,3 +11,17 @@ Tableau instructions
 4-Filter->to toggle values in a category(eg:sex category see all males or all females) and see changes. (need to turn on show filter)
 5-file name pill in measured values section, means number of rows, can be used to count. (eg:all passengers=all rows)
 6-Clicking a portion of the graph(like a bar from bar graph) results in the value getting displayed at bottom of page. Detail from Marks section and other options in the mark section can also be used.
+
+Approach I used:
+
+1-Goal/Business problem: Find out what groups of people had higher survival rates.
+2-Summary statistics:Get an overview based on our goal. 
+
+Like how many people survived,how many did not. 
+
+Which groups of people(sex,pclass,age) had highest percentage of survivors.
+
+3-Visualise the data:Use tools like tableau to visualize, so we can understand easily
+
+which groups had higher survival rates. Toggle sex(male,female),pclass(1,2,3) or visualise all together to compare and find out which groups had higher survival rates.
+
