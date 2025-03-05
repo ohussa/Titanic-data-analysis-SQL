@@ -127,8 +127,9 @@ No, all classes, and, all genders have more passengers in the age bin group of 3
 Whether a passenger survived or not seemed to be strongly related to the passenger's
 1. **Sex:**
 2. **PClass**
+3. **Passenger age group 0-10 vs other age groups**
 
-**It seems that perhaps Females and upper class passengers were given preference during the evacuation procedure**
+**It seems that perhaps Females ,upper class passengers, and children were given preference during the evacuation procedure**
 
 
 
