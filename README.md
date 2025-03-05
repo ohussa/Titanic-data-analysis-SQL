@@ -1,7 +1,7 @@
 # Titanic passengers dataAnalysis project
-1. This is my first data analysis project.
+1. This is my first SQL personal project.
 2. I am using SQL and tableau to analyse this titanic dataset.
-3. Our objective is to explore the dataset and to find out which groups of passengers had higher survival rates.
+3. My objective is to explore the dataset and to find out which groups of passengers had higher survival rates.
 
 **Dataset:** larger_version_titanic.csv
 
