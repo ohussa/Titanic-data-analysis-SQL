@@ -90,7 +90,12 @@ So this fraction should give us a good measure.
 
 
 ## 3-Visualisation (using tableau):
-#### In this section we are using the query6_approximated_age_and_approx_cabin_output.csv file to visualise, since I simplified and approximated the ages and cabin numbers to ease visualization. 
+#### In this section we are using the query6_approximated_age_and_approx_cabin_output.csv file to visualise, since I simplified and approximated the ages and cabin numbers to ease visualization.
+
+##### In the visualisation below we can see that the reason why most survivors were between the age 21-30 was simply because most passengers were of that age. Hence I conclude that there is no relation between the age group of a titanic passenger and the peassenger's survival chance. With the exception being male children, under of the age 10 and under.
+<figure>
+<img src="https://private-user-images.githubusercontent.com/200813651/419466970-1e2f336b-0413-4f1e-9b59-f7a35eeb84b2.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDExODA3NDQsIm5iZiI6MTc0MTE4MDQ0NCwicGF0aCI6Ii8yMDA4MTM2NTEvNDE5NDY2OTcwLTFlMmYzMzZiLTA0MTMtNGYxZS05YjU5LWY3YTM1ZWViODRiMi5KUEc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwNVQxMzE0MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMzNmYjViMzMzZGZjZDlkNjg0ODQzYjI1ZjI1YTY0ZjgwYmUyNjc3YTJhYjJkMDg3YzI3ODhkNDk4ZjgyMTM4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.7bWZN5rGATqy4wtjo7sKK68okpwvOyKd_0WUTzZq7n0" alt="age" width="550" height="350" <figcaption><i>xaxis:sex,age group<br>yaxis:Number of Passengers<br>Colors:survived=Orange<br>Did not survive=Blue</i></figcaption></figure>
+
 
 ### Now let us see if we can see any relation between pclass,sex and age with survival of passengers.
 
