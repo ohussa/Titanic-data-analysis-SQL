@@ -1,6 +1,6 @@
 # Titanic passengers dataAnalysis project
 1. This is my first data analysis project.
-2. I am using SQL to analyse this titanic dataset.
+2. I am using SQL and tableau to analyse this titanic dataset.
 3. Our objective is to explore the dataset and to find out which groups of passengers had higher survival rates.
 
 Dataset souce:
@@ -89,7 +89,7 @@ Since it is possible that most survivors were 21-30 because, most passengers wer
 So this fraction should give us a good measure.
 
 
-## 3-Visualisation:
+## 3-Visualisation (using tableau):
 #### In this section we are using the query6_approximated_age_and_approx_cabin_output.csv file to visualise, since I simplified and approximated the ages and cabin numbers to ease visualization. 
 
 ### Now let us see if we can see any relation between pclass,sex and age with survival of passengers.
