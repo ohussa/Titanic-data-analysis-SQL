@@ -99,7 +99,9 @@ I am going to ignore passengers who's ages are not known.
 Whether a passenger survived or not seems to be related to
 1. **Sex:** In every class, the percentage of female passengers who survived is higher.. So sex seems to be related to survival.
 2. **pclass:** If we look at each of the classes, in the upper classes, the percentage of males who survived and the percentage of females who survived, both are higher, compared to that of lower classes.
-![delete](https://github.com/user-attachments/assets/55c818bb-869f-4525-a962-7a61332de377)
+<!--#![delete](https://github.com/user-attachments/assets/55c818bb-869f-4525-a962-7a61332de377)-->
+
+<img src="https://private-user-images.githubusercontent.com/200813651/419044101-55c818bb-869f-4525-a962-7a61332de377.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDExNzcyOTMsIm5iZiI6MTc0MTE3Njk5MywicGF0aCI6Ii8yMDA4MTM2NTEvNDE5MDQ0MTAxLTU1YzgxOGJiLTg2OWYtNDUyNS1hOTYyLTdhNjEzMzJkZTM3Ny5KUEc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwNVQxMjE2MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNWUwNDJkMGY4NTllNzdlMjM2MDdiMTU3ZTVmNzE5Mjc4MWMwZmZlOGZhNzY3ODhmZjJhYzMzOWI2YzhhMjcxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.nQCzZPGQJswcxJ33GYkczg3uQ5x-9KckDgLvaVgpLR4" alt="delete" width="550" height="350">
 ### Is it possible that particular class or sex of passengers have higher proportion of a particular age group, which is skewing the results?
 No, all classes, and, all genders have more passengers in the age bin group of 30. The age distribution is relativly same across all classes and sexes.
 
