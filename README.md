@@ -129,7 +129,7 @@ Whether a passenger survived or not seemed to be strongly related to the passeng
 2. **PClass**
 3. **Passenger age group 0-10 vs other age groups**
 
-**It seems that perhaps Females ,upper class passengers, and children were given preference during the evacuation procedure**
+**It seems that perhaps Females ,upper class passengers, and children were given preference during the evacuation procedure. Although most male passenger groups had less percentage of people who survived, but the highest percentage of survivors among the males was in the 0-10 agegroup.**
 
 
 
